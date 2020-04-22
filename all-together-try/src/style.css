@@ -1,0 +1,43 @@
+header {
+  height: 100px;
+  background: aqua;
+}
+
+div {
+  width: 100%;
+  display: flex;
+  text-align: row;
+  justify-content: space-between;
+}
+
+aside {
+  width: 20%;
+  height: 800px;
+}
+.left_orange {
+  background:orange;
+}
+
+.right_purple {
+  background:purple;
+}
+main {
+  width: 50%;
+  height: 800px;
+  background: red;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+black_box {
+  height: 70px;
+  width: 70px;
+  background: black;
+  margin: 40px;
+}
+
+footer {
+  height: 100px;
+  background: blue;
+}
