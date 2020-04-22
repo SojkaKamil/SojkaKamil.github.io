@@ -1,0 +1,27 @@
+p {
+  /*color: #015668;*/
+  /*background: #0D91A1;*/
+  width: 300px;
+  height: auto;
+  padding: 20px;
+  margin-bottom: -16px;
+  border: 2px solid black;
+  border-top: 0px solid white;
+  font-size: 16px;
+  /*font-family: 'Baloo Thambi 2', cursive;*/
+}
+
+.one {
+  border: 2px solid black;
+  border-top: 0px solid white;
+  border-bottom: 2px solid black;
+    ;
+}
+
+.last {
+  border-bottom: 2px solid white;
+}
+
+p:hover {
+  background-color: orange;
+}
