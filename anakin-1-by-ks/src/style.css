@@ -1,0 +1,138 @@
+img { 
+width: 85%;
+margin-bottom: 20px;
+}
+
+.container {
+  position: relative;
+	text-align: center;
+}
+
+h3 {
+	position: absolute;
+	bottom: 100px;
+	left: 20%;
+  font-size: 40px;
+	font-family: 'Abril Fatface', cursive;
+	color: black;
+}
+h1 {
+	position: absolute;
+	bottom: 0px;
+	left: 250px;
+  left: 20%;
+	font-size: 80px;
+	font-family: 'Abril Fatface', cursive;
+	color: black;
+¨}
+
+blockquote { 
+  display: block;
+  /*margin-top: 1em;
+  margin-bottom: 1em;*/
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.gap{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.text {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  color: #222;
+  line-height: 1.6;
+  width: 780px;
+  
+}
+
+ul {
+  list-style-type: square;
+}
+
+  blockquote2 {
+  background: #444444;
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 52px;
+  display: flex;
+  position: relative;
+  padding-left: 50px;
+  width: 800px;
+  margin-left: 18%;
+  margin-right: 18%;
+  margin-top: 50px;
+}
+.quote::before {
+  content: '“';
+  font-size: 140px;
+  position: absolute;
+  margin-top: -88px;
+  margin-left: -50px;
+}
+
+.text_mensi {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+  /*margin-right: 20%;*/
+  width: 740px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.text_mensi_nonlist {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+  /*margin-right: 20%;*/
+  width: 780px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.titulek_uppercase {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 24px;
+  text-transform: uppercase;
+  font-weight: bold;
+  line-height: 1.6;
+  /*margin-right: 20%;*/
+  width: 780px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.titulek {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 1.6;
+  /*margin-right: 20%;*/
+  width: 780px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.podtitulek {
+font-family: "Merriweather", serif;
+  font-size: 15px;
+  font-weight: bold;
+  font-style: italic;
+  line-height: 1.6;
+  /*margin-right: 20%;*/
+  width: 780px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.othergap {
+  margin-top: -40px;
+  margin-bottom: -10px;
+}
+
+.linka {
+  border-bottom: 5px solid black;
+  width: 800px;
+}
