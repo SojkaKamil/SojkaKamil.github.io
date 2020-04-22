@@ -1,0 +1,10 @@
+img {
+  width: 300px;
+  /*height: 180px;*/
+  margin: 50px;
+  /*hover: 400px; tohle proste nefunguje*/
+}
+img:hover {
+  width: 400px;
+  margin: 0px;
+}
