@@ -1,0 +1,28 @@
+.big {
+    color: blue;
+}
+
+.container {
+    width: 200px; 
+    background-color: white;
+    /*border: 1px solid green*/
+}
+
+#b325 {
+    background-color: white;
+    border: 1px solid green;
+}
+
+.asteroid {
+    background-color: yellow;
+    width: 200px; 
+}
+
+.b329 {
+    background-color: white 
+}
+
+.b326 {
+    background-color: white;
+    border: 1px solid green;
+}
