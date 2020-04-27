@@ -1,0 +1,28 @@
+main {
+  font-size: 24px;
+  font-family: 'Baloo Thambi 2', cursive;
+  color: white;
+  text-align: center;
+  width: 300px;
+  border: 8px solid #4285f4; 
+}
+.sever {
+  background: #E67676;
+  padding: 20px;
+  margin: 0px;
+}
+.vychod {
+  background: #F2F062;
+  padding: 20px;
+  margin: 0px;
+}
+.jih {
+  background: #A9E6E6;
+  padding: 20px;
+  margin: 0px;
+}
+.zapad {
+  background: #7692E4;
+  padding: 20px;
+  margin: 0px;
+}
