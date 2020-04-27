@@ -1,0 +1,39 @@
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    font-style: oblique;
+    color: indigo;
+    padding-top: -200px;
+
+
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    color: indigo;
+
+}
+
+main {
+    width: 400px;
+    background-color: khaki;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+
+
+
+}
+
+button {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 10px;
+    color: darkred;
+    background-color: white;
+
+
+}
