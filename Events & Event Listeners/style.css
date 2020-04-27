@@ -1,0 +1,28 @@
+body {
+    background-color: lightgrey;
+    padding-top: 10px;
+    padding-left: 30px;
+
+}
+
+button {
+    background-color: grey;
+    color: whitesmoke;
+    margin:20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+label, input {
+    display: block;
+    margin: 20px;
+    color: grey;
+    font-weight: bold;
+}
+
+section {
+    margin: auto;
+    text-align: justify;
+    /*padding: 30px;*/
