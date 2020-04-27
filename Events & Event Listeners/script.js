@@ -15,10 +15,12 @@ $("button").on('click', (event) => {
 $("#prettify").click(() => {
   $("#prettify").text("Yeah, you clicked me.");
   $("#second").text("Third one was clicked and colored all.");
-  $("button").css("background", "violet");
+  $("button").css("background", "red");
   $("button").css("color", "white");
   $("button").css("font-size", "20px");
   $("button").css("border", "0");
   $("button").css("border-radius", "5px");
-})
   
+});
+
+
