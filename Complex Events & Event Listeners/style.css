@@ -1,0 +1,33 @@
+h1 {
+    font: sans-serif;
+}
+
+
+body {
+    background-color: grey;
+    padding: 40px;
+    
+}
+button {
+    background-color: rgb(36, 35, 35);
+    color: mintcream;
+    margin:40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+label, input {
+    display: block;
+    margin: 20px;
+    color: rgb(36, 35, 35);
+    font-weight: bold;
+}
+
+
+
+section {
+    margin: auto;
+    text-align: justify;
+    padding: 30px;
+
+}
