@@ -4,12 +4,16 @@ body {
 
 .all {
 	background-color: ghostwhite;
-	color: #444;
+    color: #444;
 	width: 400px;
 	
-	font-family: 'Manrope', sans-serif;
+	font-family: 'Oxygen', sans-serif;
 	margin: auto auto;
-	padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 010px;
+    padding-top: 10px;
+
 }
 
 h1 {
@@ -20,17 +24,19 @@ h1 {
 
 .form {
 	margin: 0px auto;
-	border: 1px solid grey;
-	border-radius: 2px;
-	height: 40px;
-	width: fit-content;
+	border: 2px solid grey;
+	border-radius: 3px;
+	height: 44px;
+/*	width: fit-content;*/
 	
 }
 
 button {
-	border: none;
-	height: 40px;
-	background-color: violet;
+  /*  border: none;*/
+    border: 4px;
+    height: 44px;
+    width: 148px;
+    background-color: violet;
 	color: white;
 	font-size: 17px;
 }
@@ -38,11 +44,16 @@ button {
 input {
 	border: none;
 	height: 38px;
-	width: 220px;
+    width: 342px;
+    width: 242px;
+    font-size: 17px;
 	padding-left: 5px;
 }
 
 .todos {
 	margin: 0px auto;
-	width: 268px;
+	margin: 20px auto;
+    width: 396px;
+
+
 }
